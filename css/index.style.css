@@ -138,15 +138,12 @@ header .nav .nav-item .home-active{
     header .nav .nav-item.active{
         display: block;
         position: absolute;
-        top: 5.2vh;
-        left: 0;
-        right: auto;
-        margin-left: -28vw;
+        right: 0;
         width: 40vw;
-        height: 100vh;
+        height: auto;
         background: rgb(34, 0, 56);
         text-align: right;
-        padding: 20px 20px;
+        padding: 30px;
         transition: 0.3s;
     }
     header .nav .nav-item a{
